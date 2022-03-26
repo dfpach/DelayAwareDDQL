@@ -2,9 +2,9 @@
 Delay Aware DDQL algorithm for access control in LTE-A for MATLAB
 
 
-The original LTE simulator was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure
+The original LTE simulator with access control was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure
 
-This file is an implementation of Double Deep Q-Learning for access control optimization in a system that can adapt both Pacb and Trao
+My contribution is an implementation of Double Deep Q-Learning for access control optimization in a system that can adapt both Pacb and Trao using the LTE-A simulator
 
 
 To train the system run BASE_FILE.m (You need the files with the traffic for H2H traffic.It normally is a file with a row with traffic intensity per 10 minutes. M2M traffic is modelled as a beta function)
