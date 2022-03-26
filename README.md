@@ -15,4 +15,6 @@ THE FILE calculaterewardexample.m is the cost function. This can be modified acc
 
 THE FILE convierteaccionavars.m is just a function called by LTE_M…m
 
+THE FILE rach.m is also needed
+
 
