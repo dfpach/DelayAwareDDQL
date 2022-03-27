@@ -1,5 +1,5 @@
 # DelayAwareDDQL
-Delay Aware DDQL algorithm for access control in LTE-A for MATLAB
+Delay Aware DDQL algorithm for access control in LTE-A for MATLAB. This system uses Double Deep Q-Learning to find the policy that optimizes access control and reduces the access delay changing two parameters: Pacb and Trao.
 
 
 The original LTE simulator with access control was implemented by Luis Tello https://github.com/lptelloq/LTE-A_RACHprocedure
