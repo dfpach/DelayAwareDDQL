@@ -13,7 +13,7 @@ The file BASE_FILE.m  trains the system during 3 days (3 data files)  and calls 
 
 THE FILE calculaterewardexample.m is the cost function. This can be modified according to your interest
 
-THE FILE convierteaccionavars.m is just a function called by LTE_M…m
+THE FILE convierteaccionavars.m is just a function called by LTEA_M_H_ACB_DDQL_TraoPacb_LIMPIO.m
 
 THE FILE rach.m is also needed
 
